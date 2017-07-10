@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 
 headers = {'User-Agent':'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6'}
 _user = "441836637@qq.com"
-_pwd = "xhxblklsougqcaej"
+_pwd = ""
 _to = "littercap@163.com"
 
 msg = MIMEText("At least one worker crashed!")
