@@ -1,7 +1,7 @@
 import smtplib
 from email.mime.text import MIMEText
 _user = "441836637@qq.com"
-_pwd = "xhxblklsougqcaej"
+_pwd = ""
 _to = "littercap@gmail.com"
 
 msg = MIMEText("Test")
